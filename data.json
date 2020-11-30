@@ -1,0 +1,870 @@
+
+   [ 
+    {
+        "id": "L1",
+        "name": "GEORGES BB Purse",
+        "type":"purse",
+        "brand":"Louis Vuitton",
+        "description":"This Georges BB purse offers a sophisticated way to wear Louis Vuitton’s most iconic motif: embossed Monogram Empreinte leather is combined with supple grained cowhide. The secure signature clasp is inspired by the locks on the House’s historic trunks. Multiple carry options and a spacious double interior make this a practical, timeless day purse for the active woman.",
+        "size": "10.8 x 6.7 x 4.5 inches (length x Height x Width)",
+        "color": "Rose Poudré Pink",
+        "material":"Embossed supple grained cowhide leather and supple grained cowhide leather",
+        "Strap" :"17.7 inches",
+        "cost":"$2,920",
+        "link": "Louis vuitton/L1.PNG",
+        "Made": "France"
+    },
+  
+    {
+        "id":"L2",
+        "name": "CROISETTE Purse",
+        "brand":"Louis Vuitton",
+        "type":"purse",
+        "description":"A compact purse with modern lines, the Croisette in Damier Ebene canvas boasts sophisticated details (note the signature S-lock) and a casual-chic allure. The removable leather tassel adds a touch of fun.",
+        "size": "9.8 x 6.7 x 3.7 inches (length x Height x Width)",
+        "color": "brown stripes",
+        "material":"Damier Ebene coated canvas and Smooth cowhide-leather trim",
+        "Strap":"22.0 inches",
+        "cost": "$1,790",
+        "link": "Louis vuitton/L2.PNG",
+       " Made": "France"
+    },
+   
+    {
+        "id": "L3",
+        "name": "POCHETTE METIS Purse",
+        "brand":"Louis Vuitton",
+        "type":"purse",
+        "description" :"The Pochette Métis purse is a chic, scaled-down version of the classic satchel silhouette. This covetable model is crafted from supple Monogram Empreinte leather, accented with an S-lock closure inspired by historic House trunks. Versatile, compact and surprisingly roomy, it is fitted with a stylish top handle and a detachable strap for shoulder or cross-body wear.",
+        "size":" 9.8 x 7.5 x 2.8 inches (length x Height x Width)",
+        "color": "Scarlet Red",
+        "material":"Monogram Empreinte embossed supple grained cowhide leather and supple grained cowhide leather",
+        "Strap" :"18.9 inches",
+        "cost": "$2,420",
+        "link": "Louis vuitton/L3.PNG",
+        "Made": "France" 
+    },
+
+    {
+        "id": "L4",
+        "name": "POCHETTE METIS Purse",
+        "brand":"Louis Vuitton",
+        "type":"purse",
+        "description":"For Spring-Summer 2020, Nicolas Ghesquière has dreamed up a modern-day ode to Louis Vuitton’s travel heritage: an update of the Nice vanity kit as a trendy city purse in Monogram and Monogram Reverse canvas. Lightweight, compact and supple, it’s easy to carry everywhere, in the hand, on the shoulder or cross-body with its removable leather-chain strap.",
+        "size":" 9.8 x 7.5 x 2.8 inches (length x Height x Width)",
+        "color": "brown stripes",
+        "material":"Monogram and Monogram Reverse coated canvas and Calfskin-leather trim",
+        "Strap" :"22.0 inches",
+        "cost": "$2,540",
+        "link": "Louis vuitton/L4.PNG",
+        "Made": "France" 
+    },
+  
+    {
+        
+        "id": "L5",
+        "name": "ALMA BB Purse",
+        "brand":"Louis Vuitton",
+        "type":"purse",
+        "description":"The charming Alma BB traces its pedigree to the original Art Deco icon, introduced in 1934. This miniature version in Monogram canvas easily holds keys, wallet, smartphone and lipstick. With a strap that adjusts the bag to waist or hip height, the Alma BB can be worn across the body for hands-free ease.",
+        "size":  "9.8 x 7.5 x 4.7 inches(length x Height x Width)",
+        "color":" brown stripes",
+        "material":"Monogram coated canvas and Smooth cowhide-leather trim",
+        "Strap" :"Double,22.0 inches",
+        "cost": "$1,430",
+        "link": "Louis vuitton/L5.PNG",
+        "Made":" France" 
+    },
+  
+    {
+        
+        "id": "L6",
+        "name": "NOÉ BB Purse",
+        "brand":"Louis Vuitton",
+        "description":"The timeless Noé purse, created in 1932, has been reimagined in this charmingly diminutive format. Standing just under nine inches tall on its reinforced leather base, the Noe in Damier Azur canvas sports the original’s signature leather drawstring, as well as an extra-long strap for casual cross-body wear.",
+        "size": "9.4 x 8.7 x 5.9 inches (length x Height x Width)",
+        "color": "pink and gray",
+        "material":"Damier Azur coated canvas and Natural cowhide-leather trim",
+       " Strap" :"9.7 inches",
+        "cost": "$1,340",
+        "link": "Louis vuitton/L6.PNG",
+        "Made": "France" 
+    },
+    
+    {
+        
+        "id": "L7",
+        "name": "SPEEDY BANDOULIÈRE 30 Purse",
+        "brand":"Louis Vuitton",
+        "type":"purse",
+        "description":"The Speedy Bandoulière 30 in signature Monogram canvas is an ideal city purse for every day. Originally created for travelers in the 1930s – the name refers to the era’s rapid transit – every feature of the Speedy’s design is iconic, from its unmistakable shape to the rolled leather handles, engraved padlock and detachable strap.",
+        "size": "11.8 x 8.3 x 6.7  inches (length x Height x Width)",
+        "color": "brown stripes",
+        "material":"Monogram coated canvas and Smooth cowhide-leather trim",
+        "Strap" :"Double,18.9 inches",
+        "cost": "$1,640",
+        "link": "Louis vuitton/L7.PNG",
+        "Made": "France" 
+    },
+    
+    {
+        
+        "id": "L8",
+        "name": "BABYLONE CHAIN BB Purse",
+        "brand":"Louis Vuitton",
+        "type":"purse",
+        "description":"The Babylone BB Chain purse is crafted from soft, supple Mahina calf, an intricately perforated leather with a subtle Monogram pattern. Fashionably small yet roomy enough for essentials, this model is fitted with a sheepskin-covered chain handle for elbow, hand or short-shoulder carry, as well as a detachable strap for hands-free, cross-body wear.",
+        "size": "9.4 x 9.4 x 5.5 inches (length x Height x Width)",
+        "color":" Galet Gray",
+        "material":"Mahina perforated calf leather and Calf-leather trim",
+        "Strap" :"18.5 inches",
+        "cost":" $3,950",
+        "link": "Louis vuitton/L8.PNG",
+        "Made": "France" 
+    },
+  
+    {
+        
+        "id": "L9",
+        "name": "BEAUBOURG HOBO MM Purse",
+        "brand":"Louis Vuitton",
+        "type":"purse",
+        "description":"The Beaubourg Hobo MM purse is made from Mahina calf leather perforated with the Monogram pattern. It boasts a stylishly braided-leather top handle, with hand-painted edge-dyeing along the braids. The leather zip pulls and large LV charm sign the purse. A detachable, wide leather strap .",
+        "size": "12.6 x 10.2 x 6.7 inches (length x Height x Width)",
+        "color": "Black",
+        "material":"Mahina perforated calf leather andCalf-leather trim",
+"        Strap" :"21.3 inches",
+        "cost": "$4,400",
+        "link": "Louis vuitton/L9.PNG",
+        "Made": "France" 
+    },
+  
+    {
+       " id": "L10",
+        "name": "Victorine Wallet",
+        "brand":"Louis Vuitton",
+        "type":"wallet",
+        "description":"The compact Victorine wallet in Monogram canvas combines femininity and functionality. It opens out to reveal many practical features, including card slots and pockets for bills and coins. Its envelope-style flap is sealed with a press-stud, which is color-matched with the grained-leather lining.",
+        "size": "4.7 x 3.5 x 0.8 inches<br>(length x Height x Width)",
+        "color":" Fuchsia Pink",
+        "material":"Monogram coated canvas, Grained cowhide-leather trim",
+        "cost": "$570",
+        "link": "Louis vuitton/L10.PNG",
+        "Made": "France" 
+    },
+   
+    {
+        "id": "L11",
+        "name": "Slender Wallet",
+        "brand":"Louis Vuitton",
+        "type":"wallet",
+        "description":"Slender by name, slender by nature. This wallet in masculine Damier Graphite canvas is suitably compact and slim, will carry all the essentials and still fit into a front or back pocket with ease.",
+        "size": "4.3 x 3.3 x 0.8  inches<br>(length x Height x Width)",
+        "color": "Blue gray",
+        "material":"Coated Canvas",
+        "cost": "$475",
+        "link": "Louis vuitton/L11.PNG",
+        "Made": "France"
+    },
+   
+    {
+        "id": "L12",
+        "name": "CLÉMENCE Wallet",
+        "brand":"Louis Vuitton",
+        "type":"wallet",
+        "description":"The slim-line Clémence wallet is crafted from Damier Azur canvas with a grained-leather lining. Its all-round zip opens wide to allow easy access to its two generous compartments, complete with pockets and card slots. Refined details, such as the leather zip pull, mean the Clémence can also be used as a clutch.",
+        "size":" 7.87 x 3.54 x 0.79 inches(length x Height x Width)",
+        "color": "Rose Ballerine Pink",
+        "material":"Damier Azur coated canvas",
+        "cost": "$570",
+        "link": "Louis vuitton/L12.PNG",
+        "Made": "France"
+    },
+  
+    {
+        "id": "L13",
+        "name":"VICTORINE Wallet",
+        "brand":"Louis Vuitton",
+        "type":"wallet",
+        "description":"The Victorine wallet in Damier Ebene canvas is a compact, envelope-style design which opens out to reveal a range of practical features, including space for bills and cards, and a zipped coin pocket on the side. Its colorful press-stud and grained-leather lining add a touch of femininity.",
+        "size": "4.72 x 3.74 x 0.59  inches<br>(length x Height x Width)",
+        "color": "Rose Ballerine Pink",
+        "material":"Damier Ebene coated canvas,Grained cowhide-leather trim",
+        "cost": "$570",
+        "link": "Louis vuitton/L13.PNG",
+        "Made": "France"
+    },
+  
+    {
+        "id": "L14",
+        "name": "Twist Wallet",
+        "brand":"Louis Vuitton",
+        "type":"wallet",
+        "description":"Inspired by the iconic Twist handbag, the Twist wallet in Epi leather combines a functional design with fashion appeal. Its signature is the LV Twist lock, with an L which transforms into a V with a twist of the fingers. Inside, it offers two spacious compartments, a zipped coin pocket and multiple card slot.",
+        "size": "7.5 x 4.1 x 1.2 inches(length x Height x Width)",
+        "color":"Grenade Pink",
+        "material":"Epi grained cowhide leather",
+        "cost": "$1,230",
+        "link": "Louis vuitton/L14.PNG",
+        "Made": "France"
+    },
+   
+    {
+        "id": "L15",
+        "name": "Victorine Wallet",
+        "brand":"Louis Vuitton",
+        "type":"wallet",
+        "description":"Glossy Monogram Vernis patent calf leather complements the feminine design of the Victorine wallet. Both playful and practical, the Victorine cleverly optimizes space, offering several card slots, a bill pocket and a zipped coin compartment on the side. As a result, this small wallet can hold almost as much as a larger model.",
+        "size": "4.72 x 3.74 x 0.59  inches(length x Height x Width)",
+        "color": "Rose Ballerine Pink",
+        "material":"Monogram Vernis embossed patent calf leather",
+        "cost":" $695",
+        "link": "Louis vuitton/L15.PNG",
+        "Made": "France"
+    },
+
+   
+    {
+        "id": "G1",
+        "name": "Horsebit Purse",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"Horsebit,the line is enriched with a small shoulder bag in GG Supreme canvas with contrasting white leather details and a special mechanism that adjusts the length of the shoulder strap so it can be carried on one shoulder or cross body.",
+        "size": "8.8 x 6.7 x 2.6 inches (length x Height x Width)",
+        "color": "Beige and ebony",
+        "material":"Beige/ebony GG Supreme canvas, a material with low environmental impact",
+        "Strap" :"19.7 inch",
+        "cost": "$1,390",
+        "link": "Gucci/G1.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "G2",
+        "name": "Padlock Purse",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"he Padlock family is enriched with the introduction of a crescent shaped shoulder purse. Crafted from the House's monogram canvas, the style is offset by contrasting leather details and completed by the line's signature lock closure. ",
+        "size": "8.6 x 7.7 x 2.6 inches (length x Height x Width)",
+        "color": "Beige and ebony",
+        "material":"Beige and ebony GG Supreme canvas, a material with low environmental impact",
+        "Strap" :"19.7 inch",
+        "cost": "$2,100",
+        "link": "Gucci/G2.PNG",
+        "Made": "Italy"
+    },
+  
+    {
+        "id": "G3",
+        "name": "Dionysus Purse",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"Among the designs are Alessandro Michele’s most emblematic styles and motifs from the past 5 years, like the Dionysus. One of the House's Beloved lines, the purse is synonymous with its textured tiger head closure. Here, it appears as a small shoulder bag presented in white leather and trimmed in precious python.",
+        "size": "7.5 x 6 x 2 inches (length x Height x Width)",
+        "color": "Brown",
+        "material":"rown leather ,Antique palladium-toned hardware",
+        "Strap" :"15.5 inch inch",
+        "cost": "$2,200",
+        "link": "Gucci/G3.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "G4",
+        "name": "Dionysus Purse with python trim",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"Among the designs are Alessandro Michele’s most emblematic styles and motifs from the past 5 years, like the Dionysus. One of the House's Beloved lines, the purse is synonymous with its textured tiger head closure. Here, it appears as a small shoulder bag presented in white leather and trimmed in precious python.",
+        "size": "11 x 7x 3.5 inches (length x Height x Width)",
+        "color": "White",
+        "material":"White leather with natural coloured python trim",
+        "Strap" :"15 inch",
+        "cost": "$3,600",
+        "link": "Gucci/G4.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "G5",
+        "name": "Houndstooth and stripe Purse with Interlocking G",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"Historic patterns and codes are combined and refreshed each season with a Gucci twist. Interpreted using the colours of the House Web, the Houndstooth motif is presented as a striped design that mixes with Guccio Gucci's monogram. The purse's shape is emphasized by leather accents.",
+        "size": "9 x 7.5 x 4 inches (length x Height x Width)",
+        "color": "Red and green",
+        "material":"Houndstooth and stripe wool with Interlocking G, Light brown leather trim",
+        "Strap" :"19.7 inch",
+        "cost": "$1,980",
+        "link": "Gucci/G5.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "G6",
+        "name": "GG Marmont mini sequin Purse",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"Crafted from silk, the purse  shape is presented in a miniature format with an all over sequin embroidery in a soft shade of pink. Inspired by an archival design from the '70s—a hallmark era of the House—the Double G decorates the front of this accessory. Featuring a chain strap and drawstring closure the versatile shape can also be worn as a cross body purse.",
+        "size": "5.5 x 6.7 x 5.1 inches (length x Height x Width)",
+        "color": "Pink",
+        "material":"Pink sequin embroidered quilted silk",
+        "Strap" :"23.6 inch",
+        "cost": "$1,150",
+        "link": "Gucci/G6.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "G7",
+        "name": "GG Marmont mini sequin shoulder Purse",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"A message about leaving fashion’s old rules behind, Epilogue conveys the idea that pieces should be timeless–not just in fashion for one season. The collection highlights Alessandro Michele’s most emblematic styles and motifs from the past 5 years, like the GG Marmont. The recognizable design is presented in silver with shining sequins against a silk base. The mini shoulder bag is completed by the recognizable Double G hardware.",
+        "size": "11 x 7 x 3.5 inches (length x Height x Width)",
+        "color": "Silver",
+        "material":"Silver sequin embroidered quilted silk",
+        "Strap" :"15 inch",
+        "cost": "$2,450",
+        "link": "Gucci/G7.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "G8",
+        "name": "Jackie 1961 mini hobo  Purse",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"The reintroduction of the Jackie bag in a mini size for Fall Winter 2020 presents a new take on a historical Gucci icon. Brought back to the forefront, the recognizable shape is presented in light pink leather and enhanced with an additional, detachable shoulder strap. Attached to the bag with a buckle closure, the second strap adds a contemporary feel to the archival style, providing new ways to wear—from top handle, shoulder to cross body",
+        "size": "7.5 x 5.1 x 1.2 inches (length x Height x Width)",
+        "color": "Light pink",
+        "material":"Leather",
+        "Strap" :"7 inch",
+        "cost": "$1,980",
+        "link": "Gucci/G8.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "G9",
+        "name": "Gucci Dionysus Purse",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"The structured Dionysus purse presents the baiadera in green, red and blue leather. The now defining tiger head closure—a unique detail referencing the Greek god Dionysus, who in myth is said to have crossed the river Tigris on a tiger sent to him by Zeus—is enriched with blue enamel details, adding a contrasting element to the design. The sliding chain strap can be worn multiple ways, changing between a shoulder and a top handle purse.",
+        "size": "11 x 7 x 3.5 inches (length x Height x Width)",
+        "color": "Green, red and blue",
+        "material":"Baiadera leather",
+        "Strap" :"15 inch",
+        "cost": "$2,980",
+        "link": "Gucci/G9.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "G10",
+        "name": "GG Marmont Wallet",
+        "brand":"Gucci",
+        "type":"purse",
+        "description":"A miniature version of the House's monogram hardware animates this continental wallet. First appearing in the '70s as a belt buckle, the Double G is a historic symbol of the House. Here, the accessory is presented in a mix of GG Supreme canvas and dusty pink leather.",
+        "size": "7.5 x 4 x 1.5 inches(length x Height x Width)",
+        "color": "Beige and ebony",
+        "material":"GG Supreme canvas",
+        "cost" :"$570",
+        "link": "Gucci/G10.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "G11",
+        "name": "Ophidia bi-fold Wallet",
+        "brand":"Gucci",
+        "type":"wallet",
+        "description":"First used in the 1970s, the GG logo was an evolution of the original Gucci rhombi design from the 1930s, and from then it's been an established symbol of Gucci's heritage. The wallet combines the signature motif with the Web stripe—a timeless pairing that pays homage to Gucci's roots.",
+        "size": "4.1 x 3.1 x 1.4 inches(length x Height x Width)",
+        "color": "Beige and ebony",
+        "material":"GG Supreme canvas,, with brown leather trim",
+        "cost": "$550",
+        "link": "Gucci/G11.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "G12",
+        "name": "Disney x Gucci Donald Duck billfold Wallet",
+        "brand":"Gucci",
+        "type":"wallet",
+        "description":"Legendary Disney characters continue to enrich the House's narrative. Imbued with a playful character, Donald Duck adds a whimsical note to signature shapes and designs. Accompanied by nephews Huey, Dewey and Louie, the family animate this slim wallet.",
+        "size": " 4.3x 3.7 inches(Width x Height)",
+        "color": "Beige and ebony",
+        "material":"GG Supreme canvas with Donald Duck print © Disney",
+        "cost": "$470",
+        "link": "Gucci/G12.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "G13",
+        "name": "Dionysus card case wallet",
+        "brand":"Gucci",
+        "type":"wallet",
+        "description":">The Dionysus card case wallet is presented in the signature GG pattern, defined by the defining tiger head closure—a unique detail referencing the Greek god Dionysus, who in myth is said to have crossed the river Tigris on a tiger sent to him by Zeus",
+        "size": "4.3 x 3.7 x 1.2 inches(length x Height x Width)",
+        "color": "Beige and ebony",
+        "material":"GG Supreme canvas",
+        "cost": "$620",
+        "link": "Gucci/G13.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "G14",
+        "name": "GG Marmont card case wallet",
+        "brand":"Gucci",
+        "type":"wallet",
+        "description":"The GG Marmont card case wallet is presented in white matelassé leather with quilted diagonal stripes, trimmed in dark blue leather. The small accessory is completed with the textured torchon version of the Double G—a contemporary take on an archival detail from the '70s'.",
+        "size": "4.3 x 3.4 x 1.2 inches(length x Height x Width)",
+        "color": "White and Dark blue trim",
+        "material":"Matelassé leather",
+        "cost": "$495",
+        "link": "Gucci/G14.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "G15",
+        "name": "GucciOff The Grid billfold wallet",
+        "brand":"Gucci",
+        "type":"wallet",
+        "description":"Gucci Off The Grid uses recycled, organic, bio-based and sustainably sourced materials. Regenerated nylon, crafted using recycled sewing thread and trims displays the GG pattern against an opaque background in black.",
+        "size": "4.3 x 3.7 x 1.2 inches(length x Height x Width)",
+        "color": "Black",
+        "material":"GG nylon made from ECONYL®—a nylon fabric sourced from regenerated materials",
+        "cost": "$370",
+        "link": "Gucci/G15.PNG",
+        "Made": "Italy"
+    },
+
+    
+    {
+        "id": "D1",
+        "name": "Dior Bobby Purse",
+        "brand":"Dior",
+        "type":"purse",
+        "description":"The Dior Bobby is a hobo style showcasing sophisticated lines and harmonious proportions. The purse is crafted from beige box calfskin with a suede calfskin interior for added softness, and is enhanced with antique gold-finish metal hardware. Its adjustable and removable Dior Oblique embroidered shoulder strap allows this oversized style to be carried by hand, worn over the shoulder or crossbody.",
+        "size": "10.8 x 7.7 x 3.2 inches (length x Height x Width)",
+        "color": "Beige",
+        "material":"beige box calfskin",
+        "cost": "$3,500",
+        "link": "Dior/D1.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "D2",
+        "name": "Dior Bobby Purse",
+        "brand":"Dior",
+        "type":"purse",
+        "description":"The Dior Bobby is a hobo style showcasing sophisticated lines and harmonious proportions. Crafted in dark tan grained calfskin, it features hand-woven leather whipstitched detailing with a flexible suede interior, and is enhanced by shiny antique gold-finish metal hardware. Its removable and adjustable sliding shoulder strap has a military-inspired buckle, and allows it to be carried on the shoulder or worn crossbody, as well as by hand.",
+        "size": "8.8 x 6.8 x 2.4 inches(length x Height x Width)",
+        "color": "Dark Tan",
+        "material":"Calfskin with Whipstitched Seams",
+        "cost": "'$2,500",
+        "link": "Dior/D2.PNG",
+        "Made": "Italy"
+      
+    },
+    
+    {
+        "id": "D3",
+        "name": "Dior Bobby Purse",
+        "brand":"Dior",
+        "type":"purse",
+        "description":"The Dior Bobby is a hobo style showcasing sophisticated lines and harmonious proportions. This small model is crafted from blue Dior Oblique jacquard canvas and enhanced by antique gold-finish metal hardware. Its removable and adjustable shoulder strap has a military-inspired buckle, and allows it to be carried on the shoulder or crossbody, as well as by hand.",
+        "size": "7.2 x 5.6 x 2 inches (length x Height x Width)",
+        "color": "Blue",
+        "material":"Dior Oblique jacquard canvas",
+        "cost": "$2,400",
+        "link": "Dior/D3.PNG",
+        "Made": "Italy"
+    },
+
+    {
+        "id": "D4",
+        "name": "Dior Bobby Purse",
+        "brand":"Dior",
+        "type":"purse",
+        "description":"The Dior Bobby is a hobo style showcasing sophisticated lines and harmonious proportions. This medium shape is crafted from textured, flexible gray shearling and enhanced by antique gold-finish metal hardware. Its removable and adjustable shoulder strap has a military-inspired buckle, and allows it to be carried by hand, worn over the shoulder or crossbody.",
+        "size": "8.8 x 6.8 x 2.4 inches (length x Height x Width)",
+        "color": "Gray",
+        "material":"Shearling",
+        "cost": "$2,700",
+        "link": "Dior/D4.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "D5",
+        "name": "Dior Saddle Purse",
+        "brand":"Dior",
+        "type":"purse",
+        "description":"Maria Grazia Chiuri brings a fresh update to the iconic Saddle purse with an eye-catching design. This heritage style showcases the emblematic 'D'-stirrup magnetic clasp and saddle flap with the signature 'CD' structure on both sides of the handle, giving it an instantly modern feel. Crafted in camel-colored shearling and embellished with antique gold-finish hardware, this medium style may be customized with alternative straps.",
+        "size": "10.2 x 8 x 2.6 inches (length x Height x Width)",
+        "color": "Camel",
+        "material":"Crafted in camel-colored shearling",
+        "cost": "$3,200",
+        "link": "Dior/D5.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        
+        "id": "D6",
+        "name": "Dior Saddle Purse",
+        "brand":"Dior",
+        "type":"purse",
+        "description":"Maria Grazia Chiuri brings a fresh update to the iconic Saddle bag. The heritage design showcases the emblematic 'D'-stirrup magnetic clasp and Saddle flap with the signature 'CD' structure on both sides of the handle. Crafted in black grained calfskin and embellished with antique gold-finish metal hardware, the modern style may be customized with alternative straps.",
+        "size": "10.2 x 8 x 2.6 inches (length x Height x Width)",
+        "color": "Black",
+        "material":"Calfskin",
+        "cost": "$3,200",
+        "link": "Dior/D6.PNG",
+        "Made": "Italy"
+    },
+
+    
+    {
+        "id": "D7",
+        "name": "Oblique Galaxy Wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"An excellent example of the House's unique leather craftsmanship, it is made with black Dior Oblique Galaxy leather, a smooth calfskin perforated with the Dior Oblique motif and embellished with a reflective lining. Its tonal smooth grained calfskin interior presents a bill holder, two flat compartments and eight card slots. The bi-fold wallet may easily be slipped into a pocket or bag.",
+        "size": " 4.6 x 3.8 inches (Height x Width)",
+        "color": "Black",
+        "material":"Calfskin",
+        "cost": "$310",
+        "link": "Dior/D7.PNG",
+        "Made": "Italy"
+    },
+    
+    {
+        "id": "D8",
+        "name": "Dior and Shawn wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"The DIOR AND SHAWN wallet is crafted in luxurious blue grained calfskin. The bifold-style wallet is embellished with the new beige DIOR AND SHAWN signature, created by Shawn Stussy. The interior is lined in smooth calfskin, and has a bill slot, a coin compartment, and four card slots. The effortless wallet is a timeless holdall.",
+        "size": "4.6 x 3.8 inches (Height x Width)",
+        "color": "Blue",
+        "material":"Calfskin",
+        "cost": "$310",
+        "link": "Dior/D8.PNG",
+        "Made": "Italy"
+    },
+
+    {
+        "id": "D9",
+        "name": "Dior Saddle Lotus Wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"The Saddle Lotus wallet portrays the namesake line's emblematic codes. Crafted in cloud blue goatskin, it features the iconic asymmetrical flap and antique gold-finish metal 'D' stirrup magnetic clasp. Thanks to its several separate compartments, this timeless accessory can hold all the daily essentials and may easily be slipped into any bag.",
+        "size": "4 x 3.6 x 1 inches (length x Height x Width)",
+        "color": "Blue",
+        "material":"Goatskin",
+        "cost": "$870",
+        "link": "Dior/D9.PNG",
+        "Made": "Italy"
+    },
+
+    {   
+        "id": "D10",
+        "name": "Dior Navy Blue Wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"The wallet is crafted in luxurious blue grained calfskin. The bifold-style wallet has a palladium-finish 'DIOR' signature on the front and its sophisticated round lines accentuate the elegance of the silhouette. The interior is lined with 'DIOR'-embossed smooth calfskin,and features a bill slot, two flat compartments, and eight card slots. Sophisticated and stylish, the functional wallet is the ideal daily companion",
+        "size": "4.6 x 3.8 inches (x Height x Width)",
+        "color": "Navy Blue",
+        "material":"Calfskin",
+        "cost": "$270",
+        "link": "Dior/D1.PNG",
+        "Made": "Italy"
+    },
+
+    {
+        "id": "D11",
+        "name": "Dior Montaigne Compact Wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"The 30 Montaigne compact wallet portrays an elegant 'CD' signature on its flap. Crafted with denim blue grained calfskin, it is lightweight and practical. This wallet features a billfold and coin compartment and three card slots. This daily essential can combine with other pieces from the 30 Montaigne line and may be slipped into any bag.",
+        "size": "3.8 x 3 x 1.4 inches (length x Height x Width)",
+        "color": "Denim Blue",
+        "material":"Calfskin",
+        "cost": "$230",
+        "link": "Dior/D11.PNG",
+        "Made": "Italy"
+    },
+    {
+        "id": "D12",
+        "name": "Lady Dior 5-Gusset Wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"The Lady Dior 5-gusset card holder pays tribute to the multicolor motif Dior in Lights, a graphic motif inspired by the festivals of lights in southern Italy. Crafted in black calfskin, the style is compact and functional. It offers five compartments to hold all the daily essentials, embellished with a 'D.I.O.R.' charm and a snap-button flap closure. The card holder may be paired with other Dior in Lights creations.",
+        "size": "4.2 x 2.4 x 1.2 inches (length x Height x Width)",
+        "color": "Black with Multicolor Dior in Lights Motif",
+        "material":"Calfskin",
+        "cost": "$240",
+        "link": "Dior/D12.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "D13",
+        "name": "Mini Lady Dior Wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"The mini Lady Dior Wallet is both compact and spacious. Crafted in latte calfskin, it pays tribute to the multicolor Dior in Lights motif, a graphical motif inspired by southern Italy's festivals of lights. Completed with a 'D.I.O.R.' charm, it fastens with a snap closure and presents several card slots, a zipped pocket, two patch pockets and a compartment for bills. This mini wallet will easily combine with other Dior in Lights creations",
+        "size": "4.4 x 3.4 x 1.2 inches (length x Height x Width)",
+        "color": "Yellow with  with Multicolor Dior in Lights Motif",
+        "material":"Latte calfskin",
+        "cost": "$260",
+        "link": "Dior/D13.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "D1",
+        "name": "Dior 30 Montaigne Wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"The 30 Montaigne wallet is an elegant and essential companion. Crafted with gray grained calfskin, the chic and spacious silhouette offers three interior compartments, eight card slots, three patch pockets and a zipped pocket. This wallet will easily fit in any handbag and may be worn with other accessories from the namesake line",
+        "size": "7.5 x 3.8 x 1 inches (length x Height x Width)",
+        "color": "Gray",
+        "material":"Calfskin",
+        "cost": "$450",
+        "link": "Dior/D1.PNG",
+        "Made": "Italy"
+    },
+
+    {
+        "id": "D15",
+        "name": "Lady Dior Lotus Wallet",
+        "brand":"Dior",
+        "type":"wallet",
+        "description":"The Lady Dior Lotus wallet is offered in a most elegant version. Crafted in beige patent calfskin, it honors the House's codes with its timeless Cannage topstitching and 'D.I.O.R.' charm. Featuring several separate compartments that can hold both bills and coins, this small companion may easily be slipped into any bag or clutch.",
+        "size": "4 x 3.4 x 1 inches (length x Height x Width)",
+        "color": "Beige",
+        "material":"Black patent calfskin with Cannage topstitching",
+        "cost": "$360",
+        "link": "Dior/D15.PNG",
+        "Made": "Italy"
+    },
+  
+    {
+        "id": "F1",
+        "name": "Mini Double F Purse",
+        "brand":"Fendi",
+        "type":"purse",
+        "description":"Purse consisting of one compartment with internal pocket. Magnetic closure on flap. Sliding-chain and removable shoulder strap. Made of glazed fabric with FF motif in the iconic colors. Closure decorated with Fendi Stamp patch in brown leather. Metal accessories in a vintage-gold finish.",
+        "size": "7.1 x 4.5 x 1.8 inches(length x Height x Width)",
+        "color": "Brown",
+        "material":"Canvas",
+        "cost": "$1,290",
+        "link": "Fendi/F1.PNG",
+        "Made": "Italy"
+    },
+  
+    {
+        "id": "F2",
+        "name": "Peekaboo I See U Pochette Purse",
+        "brand":"Fendi",
+        "type":"purse",
+        "description":"Peekaboo ISeeU purse made of soft black nappa leather and embellished with the classic twist lock on both sides. Featuring a laminated gold-colored nappa leather lining, two compartments separated by a stiff partition and gold-finish metalware.Can be carried by hand or worn on the shoulder thanks to the detachable thin chain shoulder strap.",
+        "size": "8.1 x 5.3 x 3.3 inches(length x Height x Width)",
+        "color": "Black",
+        "material":"Lamb leather",
+        "cost": "$2,590",
+        "link": "Fendi/F2.PNG",
+        "Made": "Italy"
+    },
+
+    {
+        "id": "F3",
+        "name": "Fendi Baguette purse",
+        "brand":"Fendi",
+        "type":"purse",
+        "description":"Iconic Baguette purse in micro version, with flap and FF fastening with magnetic clasp. The clip and buckle on the back allows it to be attached to bigger bags or belts. It can also be worn cross-body thanks to the fine chain shoulder strap. Lining with flat pocket. Made of purple matte-effect calf leather. Gold-finish metalware.",
+        "size": "4.3 x 2.6 x 1 inches(length x Height x Width)",
+        "color": "PulpLe",
+        "material":"Calf leather",
+        "cost": "$650",
+        "link": "Fendi/F3.PNG",
+        "Made": "Italy"
+    },
+  
+    {
+        "id": "F4",
+        "name": "Baguette Chain  Purse",
+        "brand":"Fendi",
+        "type":"purse",
+        "description":"Baguette purse, made of soft, black nappa leather with sliding chain and decorated with an FF clasp.Featuring a front flap, magnetic clasp, lined internal compartment with pocket and gold-finish metalware.Can be carried by hand or worn over the shoulder or cross-body thanks to the sliding chain shoulder strap with double strap-pad in leather.",
+        "size": "7.5 x 4.5 x 1.6 inches (length x Height x Width)",
+        "color": "Black",
+        "material":"Lamb leather",
+        "cost": "$2,190",
+        "link": "Fendi/F4.PNG",
+        "Made": "Italy"
+    },
+
+    { 
+        "id": "F5",
+        "name": "Fendi Bagutee Purse",
+        "brand":"Fendi",
+        "type":"purse",
+        "description":"Baguette purse made from pink wool finished with fringes and embellished with FF clasp. Featuring a front flap, magnetic clasp, internal compartment with zip pocket, brown leather details and gold-finish metalware.The bag can be carried by hand, or worn either on the shoulder or cross-body thanks to the brown leather handle and shoulder strap, both detachable",
+        "size": "10.6 x 5.9 x 2.4 inches(length x Height x Width)",
+        "color": "Pink",
+        "material":"Wool(Calfskin)",
+        "Strap" :" inch",
+        "cost": "$2,790",
+        "link": "Fendi/F5.PNG",
+        "Made": "Italy"
+        },
+  
+    {
+        "id": "F6",
+        "name": "Bagutee Chain Purse",
+        "brand":"Fendi",
+        "type":"purse",
+        "description":"Baguette purse with sliding chain made of soft yellow nappa leather finished with white nappa leather details. Embellished with an FF clasp.Featuring a front flap, magnetic clasp, lined internal compartment with pocket and gold-finish metalware. Can be carried by hand or worn over the shoulder or cross-body thanks to the sliding chain shoulder strap with double strap-pad in leather.",
+        "size": "7.5 x 4.5 x 1.6 inches<br>(length x Height x Width)",
+        "color": "Yellow and white",
+        "material":"Lamb leather",
+        "cost": "$2,190",
+        "link": "Fendi/F6.PNG",
+        "Made": "Italy"
+      
+    },
+ 
+    {
+        "id": "F7",
+        "name": "Micro Trifold Pink Leather Wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Compact, tri-fold Peekaboo Selleria wallet with large internal bill compartment and three concealed card holders. External purse with iconic hook closure. Made of pink Cuoio Romano leather. Interior trimmed with beige leather. Gold-finish metalware.",
+        "size": "4.1 x 4.8 x 1.2  inches(length x Height x Width)",
+        "color": "Pink",
+        "material":"Calfskin",
+        "cost": "$850",
+        "link": "Fendi/F7.PNG",
+        "Made": "Italy"
+    },
+  
+    {
+        "id": "F8",
+        "name": "Trifold Black leather Wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Compact, tri-fold Peekaboo Selleria wallet with large internal bill compartment and three concealed card holders. External purse with iconic twist lock. Made of black Cuoio Romano leather. Lined in white leather. Gold-finish metalware</p>",
+        "size": "4.1 x 4.8 x 1.2 inches (length x Height x Width)",
+        "color": "Black",
+        "material":"Calfskin",
+        "cost": "$850",
+        "link": "Fendi/F8.PNG",
+        "Made": "Italy"
+    },
+ 
+    {
+        "id": "F9",
+        "name": "Trifold Beige Leather Wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Peekaboo Selleria Trifold wallet with twist-lock fastening and outer compartment closed with a press stud. Inside it has two gusseted compartments, a zip pocket, 14 card slots and six flat pockets. Made of beige Cuoio Romano leather. Palladium-finish metalware.</p>",
+        "size": "7.1 x 3.9 x1.2 inches(length x Height x Width)",
+        "color": "Beige",
+        "material":"Calfskin",
+        "cost": "$890",
+        "link": "Fendi/F9.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "F10",
+        "name": "White Nappa Leather Wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Small Baguette bi-fold wallet. Interior organized with flat pockets, a coin pocket with zip, four card slots and an inner compartment for bills. Press-stud fastening. Made of white nappa leather. Decorated with contrasting black profiles and FF motif. Black nappa leather lining.",
+        "size": "4.3 x 3.5 x 1 inches(length x Height x Width)",
+        "color": "White",
+        "material":"Lamb leather",
+        "cost": "$770",
+        "link": "Fendi/F10.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "F11",
+        "name": "Black leather horizontal wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Horizontal wallet in black elite calfskin with color-block Bag Bugs eye inlay. Pink leather lining, with eight card slots, and two billfold pockets.",
+        "size": "4.1 x 3.8 x 0.6 inches(length x Height x Width)",
+        "color": "Black",
+        "material":"calf leather",
+        "cost": "$450",
+        "link": "Fendi/F11.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "F12",
+        "name": "Brown fabric bi-fold Wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Wallet with eight interior card slots and two compartments for bills. Made of fabric with FF motif. Finished with black leather insert and inlaid detail in shades of brown.",
+        "size": "4.1 x 3.8 x 0.6 inches(length x Height x Width)",
+        "color": "Brown",
+        "material":"Calfskin",
+        "cost": "$450",
+        "link": "Fendi/F12.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "F13",
+        "name": "Black leather money clip Wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Flip-cover money clip with interior organized into six card slots. Made of smooth black leather. Branded with metal FF motif with gold finish.",
+        "size": "4.5 x 3.3 x 0.6 inches(length x Height x Width)",
+        "color": "Black",
+        "material":"Calfskin",
+        "cost": "$450",
+        "link": "Fendi/F13.PNG",
+        "Made": "Italy"
+    },
+  
+    {
+        "id": "F14",
+        "name": "Brown fabric bi-fold Wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Bi-fold wallet with bill compartment, four card slots and one document holder coated in a transparent texture. Made of brown textured fabric with FF motif. Embellished with black leather insert and inlaid detail in shades of red. Black leather lining.",
+        "size": "4.1 x 3.1 0.4 inches (length x Height x Width)",
+        "color": "Brown",
+        "material":"Calfskin",
+        "cost": "$420",
+        "link": "Fendi/F14.PNG",
+        "Made": "Italy"
+    },
+   
+    {
+        "id": "F15",
+        "name": "White Leather bi-fold Wallet",
+        "brand":"Fendi",
+        "type":"wallet",
+        "description":"Wallet with eight interior card slots and two compartments for bills. Made of white leather with embossed FF motif. Embellished with inlaid beige leather stripes and yellow Romano leather. Beige leather interior.",
+        "size": "3.9 x 3.5 x 0.4 inches (length x Height x Width)",
+        "color": "White",
+        "material":"Calfskin",
+        "cost": "$450",
+        "link": "Fendi/F15.PNG",
+        "Made": "Italy"
+    }
+]
